@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_cf18b0dc095fd63f7cd628c91cd19feae9d6fbc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_36b4ed0cfbc9c34f1d0a492b9652952f9d03b85d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_fdf62112cd26d408a872695f2991549a9418c404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3110fcd3d62f00222a51c7200170b7004fd0f6ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_01d17290d5d577a04c8cd16a74f48c50d49990d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c09ac8864f6dd079384f37d9c0e91797a1c2ce23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_38825f0532ff2ba824895556da3056dd6d264c8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_75ec982daf16a9302e830b392cc7ab63b161f637/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa19f862b41719091e668bbbc9a4831677bb333f">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_74432b3c6468e792553643c6f438c33de006d010/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_35499fb5c54b2c7fd9864b4883390fca3a316269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7151677a95cfd337df44aa9e48e13f3f6cfd0424/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="257bc7018ac091f02f60ca10699c9d26e533099d">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_52b398fec7a87a6d5ee14e5b9b404db6ce11813a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_3673d73d57be9e2c376e26ac88ae15a13f219091/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_425104a68ab98bc7af4a15debf4ac0507ef3b5f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_486747da48d3c312f820a1f64de4f37df9fc324e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_aa7b14dc2e1273cba04c55ee432bc474b7c1061f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_514a1f90464d25d7c08085ba62283caac166401b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_9e6a78dfdbd445ce6f04776ca203fc68df988a45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_3ee69a4c159ecc27383363be66847b2cc6a1ac48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_fe918511f6f981e68305445af86c3a1700ed7868/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_1df59bf96cd6e8ead4140fb16a71e2b010877dcc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_0da9bd67df33cbeeb91734a46a763b2340b3a916/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_88d42a27629336386c930b3d7c57192756987437/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_f284b96417ef1168a34a4af432dae677ce5ece4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f27b26ca9a64782374397a512e76055031019f8f">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70376cecf84754344b711f5bd7fc6c984d853157/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_955ab94c17fbf452ccebcb249f3b3cc1cabd887f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_3dc13c4f96a60743007ce4a3dd7bcd0b3fa9cb16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_5037a4038a9a101467a95857aee8e5aabcd7dd94/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_74f932fe632eca6e2c84d98e7009cc694009276c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_778361d974d71365bde3fc4ecf7da2c69aa68603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_72a5d5da496a77170ccfee986d8ccafe89a2c27d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8971f4f3033154a7ca2d31fb865eb12966cd5059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_801878c6cc203f3170b955a285585f6e1443e632/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Wifi-Example/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="59587b67714332998b7414eea03e97344b78c097">
+        <dex dex="/Users/user/Wifi-Example/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_56bea85df0579cf2daedd470fe22513a89fbed4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/WifiExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/user/WifiExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_4bbbd1325d7849bd801c67b960ddaa8cfa83b796/classes.dex" />
+    </item>
+
+</items>
